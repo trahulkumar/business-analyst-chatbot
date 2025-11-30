@@ -1,0 +1,8 @@
+agno
+streamlit
+pandas
+openai
+google-generativeai
+duckdb
+openpyxl
+google-genai
